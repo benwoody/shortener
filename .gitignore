@@ -20,3 +20,4 @@
 # Ignore secrets!
 /config/secrets.yml
 /config/twitter.yml
+/config/mandril.yml
